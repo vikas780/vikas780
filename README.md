@@ -39,7 +39,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas780" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=compact&hide=htmll" alt="vikas780" /></p>
 
 <br />
 
