@@ -37,7 +37,7 @@
 <img  align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/>
 ></p>
 <br>
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas780" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas780" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas780" /></p>
