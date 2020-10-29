@@ -14,9 +14,10 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/Vikas07560436" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vikas780" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/vikas-dhiman-034018191/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikas780" height="22" width="22" /></a>
-<a href="https://www.instagram.com/vikas_.13/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="vikas780" height="22" width="22" /></a>
+[<a href="https://twitter.com/Vikas07560436" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vikas780" height="22" width="22" /></a>]
+[<a href="https://www.linkedin.com/in/vikas-dhiman-034018191/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikas780" height="22" width="22" /></a>
+]
+[<a href="https://www.instagram.com/vikas_.13/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="vikas780" height="22" width="22" /></a>]
 
 
 <br />
