@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/Vikas07560436" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vikas780" height="22" width="22" /></a>[]
-<a href="https://www.linkedin.com/in/vikas-dhiman-034018191/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikas780" height="22" width="22" /></a>[]
-       <a href="https://www.instagram.com/vikas_.13/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="vikas780" height="22" width="22" /></a>[]
+<a href="https://twitter.com/Vikas07560436" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vikas780" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/vikas-dhiman-034018191/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikas780" height="22" width="22" /></a>
+       <a href="https://www.instagram.com/vikas_.13/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="vikas780" height="22" width="22" /></a>
 
 <br />
 
@@ -35,7 +35,11 @@
 <img  align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/>
 
 <br>
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas708" /></p>
+
+<br>
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas708" /></p>
 
