@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
-
 - 🔭 I’m currently working on **Android Application and Website**,
 
 - 🌱 I’m currently learning **Flutter, UI designing**
@@ -41,8 +37,7 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas708" /></p>
-<br/>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas708" /></p>
 
 
