@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas708" /></p>
 
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas708" /></p>
 
 
