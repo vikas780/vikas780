@@ -23,7 +23,7 @@
 ### Languages and Tools:
 
 <img  align="left"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-<img  align="left"  src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> 
+<img  align="left"  src="https://cdn.artandlogic.com/wp-content/uploads/django.jpeg" alt="django" width="22" height="22"/> 
 <img   align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
 <img   align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
 <img   align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
