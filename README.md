@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 
-<img  align="left"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+<img  align="left"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="" width="22" height="22"/>
 <img  align="left"  src="https://cdn.artandlogic.com/wp-content/uploads/django.jpeg" alt="django" width="22" height="22"/> 
 <img   align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
 <img   align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
@@ -34,6 +34,6 @@
 <br>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=algolia&hide=html" alt="vikas780" /></p>
-<p>&nbsp; <br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas780" /></p>
+<p>&nbsp; <br> <br><br><br><br><br><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=vikas780&theme=algolia&show_icons=true" alt="vikas780" /></p>
 
 
