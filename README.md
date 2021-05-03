@@ -1,12 +1,13 @@
 <img scr="assets/hello.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikas</h1>
 <h3 align="center">3rd year CSE student|| Full stack developer || UI Designer || Android developer</h3>
-
+#
 [![Hello programmer Welcome ](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/vikas780) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/vikas780)[![Repos Badge](https://badges.pufler.dev/repos/vikas780)](https://github.com/vikas780s?tab=repositories) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/vikas780/)
 <br>
 <a target="_blank">
 <img align="right" height="250" width="400" alt="GIF" src="assets/easy.gif">
 </a>
+#
 
 - 🔭 I’m currently working on **Android Application and Website**,
 
@@ -19,7 +20,7 @@
 - 💬 Ask me about **c++** and **sql**
 
 - ⚡ Fun fact **I love to play Volleyball** ,**I don't like slow pc**
-
+#
 ### Connect with me:
 
 <p align="center">
@@ -54,7 +55,7 @@
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
-
+#
 ### Languages and Tools:
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -78,6 +79,8 @@
 
 <br>
 <br />
+#
+### Connect me:
 <p align="center">
   <a href="https://github.com/vikas780">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
