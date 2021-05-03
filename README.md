@@ -42,7 +42,7 @@
 </p>
 
 <br />
-#
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikas780&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/vikas780)
 <br/>
@@ -56,7 +56,7 @@
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
-#
+
 ### Languages and Tools:
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -80,7 +80,7 @@
 
 <br>
 <br />
-#
+<hr/>
 ### Connect me:
 <p align="center">
   <a href="https://github.com/vikas780">
