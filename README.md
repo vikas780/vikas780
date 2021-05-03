@@ -1,4 +1,4 @@
-<img scr=assets/hello.jpg>
+![](assets/hello.jpg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikas</h1>
 <h3 align="center">3rd year CSE student|| Full stack developer || UI Designer || Android developer</h3>
 <hr/>
