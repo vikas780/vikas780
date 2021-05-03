@@ -21,9 +21,9 @@
 - 💬 Ask me about **c++** and **sql**
 
 - ⚡ Fun fact **I love to play Volleyball** ,**I don't like slow pc**
-
+<hr/>
 ### Connect with me:
-
+<hr/>
 <p align="center">
 <a href="https://github.com/vikas780" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,12 +42,12 @@
 </p>
 
 <br />
-
+<hr/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikas780&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/vikas780)
 <br/>
 
-
+<hr/>
 
 <p align="center">
   <a>
@@ -56,9 +56,9 @@
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
   </a>
 </p>
-
+<hr/>
 ### Languages and Tools:
-
+<hr/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
@@ -81,7 +81,8 @@
 <br>
 <br />
 <hr/>
-**Github Stats**:
+### Github stats:
+<hr/>
 <p align="center">
   <a href="https://github.com/vikas780">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -91,6 +92,7 @@
   </a>
 </p>
 <br/>
+<hr/>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=vikas780&theme=react-dark)
 <br/>
