@@ -3,7 +3,7 @@
 <h3 align="center">3rd year CSE student|| Full stack developer || UI Designer || Android developer</h3>
 <hr/>
 
-[![Hello programmer Welcome ](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/vikas780) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/vikas780)[![Repos Badge](https://badges.pufler.dev/repos/vikas780)](https://github.com/vikas780s?tab=repositories) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/vikas780/)
+[![Hello programmer Welcome ](https://img.shields.io/badge/Hello,Programmer!-Welcome<3-orange.svg?style=flat&logo=github)](https://github.com/vikas780) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/vikas780)[![Repos Badge](https://badges.pufler.dev/repos/vikas780)](https://github.com/vikas780?tab=repositories) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/vikas780/)
 <br>
 <a target="_blank">
 <img align="right" height="250" width="400" alt="GIF" src="assets/easy.gif">
