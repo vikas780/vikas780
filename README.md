@@ -27,7 +27,7 @@
 ### Connect with me:
 
 
-<hr/>
+
 
 <p align="center">
 <a href="https://github.com/vikas780" target="_blank">
@@ -62,8 +62,12 @@
   </a>
 </p>
 <hr/>
+
+
 ### Languages and Tools:
-<hr/>
+
+
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
@@ -86,8 +90,10 @@
 <br>
 <br />
 <hr/>
+
+
 ### Github stats:
-<hr/>
+
 <p align="center">
   <a href="https://github.com/vikas780">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
