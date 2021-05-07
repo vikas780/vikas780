@@ -59,7 +59,7 @@
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas780&theme=dark&hide_border=true"/>
   </a>
 </p>
-<hr/>
+<hr/> 
 
 
 ### Languages and Tools:
