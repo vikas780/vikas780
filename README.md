@@ -93,7 +93,7 @@
 
 <details open="">
 <summary>
-  <strong>Github Stats : </strong>
+  <strong>Github Stats: </strong>
 </summary>
 <br>
   
