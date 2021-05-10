@@ -49,7 +49,7 @@
 <br />
 <hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikas780&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/vikas780)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikas780&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)]
 <br/>
 
 <hr/>
