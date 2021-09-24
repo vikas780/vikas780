@@ -1,6 +1,6 @@
 ![](prog.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikas</h1>
-<h3 align="center">4rd year CSE student|| Front-end developer || UI Designer || Android developer</h3>
+<h3 align="center">4rd year CSE student|| Web Development|| UI Designer </h3>
 <hr/>
 
 [![Hello programmer Welcome ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/vikas780) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/vikas780) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/vikas780/)
