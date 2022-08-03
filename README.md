@@ -105,8 +105,5 @@
  
 </p>
 </details>
-<br/>
-<hr/>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=vikas780&theme=react-dark)
-<br/>
+
