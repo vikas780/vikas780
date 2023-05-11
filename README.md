@@ -1,6 +1,6 @@
 ![](prog.png)
 <h1 align="center">Hi,I'm Vikas</h1>
-<h3 align="center">4rd year CSE student|| Web Development|| UI Designer </h3>
+<h3 align="center">GET at Orange Business || MERN Development || UI Designer </h3>
 <hr/>
 
 [![Hello programmer Welcome ](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/vikas780) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/vikas780) [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/vikas780/)
@@ -10,15 +10,11 @@
 </a>
 
 
-- 🔭 I’m currently working on **Android Application and Website**,
-
-- 🌱 I’m currently learning **Flutter, React**
+- 🔭 I’m currently working on **MERN Application**,
 
 - 📫 How to reach me: 📧 Vikas1000dhiman@gmial.com
 
-- 🤔 I’m looking for help with **Competitive Programming**
-
-- 💬 Ask me about **c++** and **sql**
+- 💬 Ask me about **MERN** and **sql**
 
 - ⚡ Fun fact **I love to play Volleyball** ,**I don't like slow pc**
 <hr/>
