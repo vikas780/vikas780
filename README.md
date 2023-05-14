@@ -1,4 +1,4 @@
-![](prog.png)
+![image](prog.png)
 <h1 align="center">Hi,I'm Vikas</h1>
 <h3 align="center">GET at Orange Business || MERN Development || UI Designer </h3>
 <hr/>
