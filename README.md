@@ -10,9 +10,9 @@
 </a>
 
 
-- 🔭 I’m currently working on **MERN Application**,
+- 🔭 I’m currently working on **Frontend Applications**
 
-- 📫 How to reach me: 📧 Vikas1000dhiman@gmial.com
+- 📫 How to reach me: 📧 Vikas1000dhiman@gmail.com
 
 - 💬 Ask me about **MERN** and **sql**
 
@@ -60,25 +60,10 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,mongodb,tailwind,next)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,git,mysql,styledcomponents,postman,netlify,redux)](https://skillicons.dev)
 
 <br />
-<hr/>
 
-<details open="">
-<summary>
-  <strong>Github Stats: </strong>
-</summary>
-<br>
-  
-<p align="center">
-  <a href="https://github.com/vikas780">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas780&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000"/>
-  </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas780&layout=compacte&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000" />
- 
-</p>
-</details>
 
 
