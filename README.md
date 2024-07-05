@@ -37,9 +37,6 @@
 </a>
 <a href="mailto:vikas1000dhiman@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100014647546166" target="_blank">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-<a href="https://www.instagram.com/shadowofficial143/" target="_blank" ><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <br />
