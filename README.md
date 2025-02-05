@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: 📧 Vikas1000dhiman@gmail.com
 
-- 💬 Ask me about **MERN** and **sql**
+- 💬 Ask me about **MERN** ,**Next.js** and **sql**
 
 - ⚡ Fun fact **I love to play Volleyball** ,**I don't like slow pc**
 <hr/>
